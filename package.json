@@ -1,0 +1,15 @@
+{
+  "name": "dsh-ask-for-help",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "description": "Two-sided ask-for-help prototype: resident peer plus kernel-side tool/reply contract.",
+  "bin": {
+    "dsh-ask-for-help": "./package/ask-for-help.mjs"
+  },
+  "files": [
+    "package",
+    "README.md",
+    "LICENSE"
+  ]
+}
